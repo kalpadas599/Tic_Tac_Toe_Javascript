@@ -3,8 +3,6 @@
 
 A classic Tic-Tac-Toe game implemented using JavaScript, HTML, and CSS. This project provides a simple and interactive way to play Tic-Tac-Toe in your web browser.
 
-![Tic-Tac-Toe Game Screenshot](https://via.placeholder.com/400x300?text=Tic-Tac-Toe+Game)
-
 ## Table of Contents
 
 -   [Features](#features)
